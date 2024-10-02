@@ -1,6 +1,6 @@
 # epfl-moodle-scraper
 
-A python script to scrape the files in your EPFL courses' Moodle page. Tequila session login based on [work by @antoinealb and @gcmalloc](https://github.com/antoinealb/python-tequila)
+A python script to scrape the files in your EPFL courses' Moodle page. The tequila session login based on [work by @antoinealb and @gcmalloc](https://github.com/antoinealb/python-tequila)
 
 ## Usage
 
